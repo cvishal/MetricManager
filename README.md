@@ -1,4 +1,8 @@
 ## Predictive Insights (PI) on VM (Also referred as Metric Manager (MM))
+
+-----
+
+### Introduction:
 This document helps user setting up IBM Predictive Insights (PI), which is part of Cloud Pak for Watson AIOps (3.1) and integrate with Event Manager which is part of Cloud Pak for Watson AIOps.
 
 These steps are grouped in following catagories:
