@@ -15,6 +15,8 @@ These steps are grouped in following catagories:
 3. [Install Standalone instance of PI pointing to local object server and local LDAP](/files/installpi.md)
 
 _Please note: You can make Image Template at this moment, so its easy to share with rest of your organization_
+
+
 ----
 
 ### Get Watson AIOps Details (OCP based EM)
