@@ -1,4 +1,5 @@
-## Predictive Insights (PI) on VM (Part of Cloud Pak for Watson AIOps also referred as  as Metric Manager)
+## Predictive Insights (PI) on VM 
+## Also referred as Metric Manager (MM)
 
 ---- 
 ### Setup standalone PI Instance
