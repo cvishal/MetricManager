@@ -27,7 +27,7 @@ _Please note: You can make reusable Image Template at this moment, so its easy t
 ----
 
 
-### Configure PI to point to OCP Based Event Manager ()
+### Configure PI to point to OCP Based Event Manager
 6. [ReConfigure DASH to authenticate with remote LDAP (OCP EM)](/files/configurepi1.md)
 7. [ReConfigure DASH to connect to remote Object Server.](/files/configurep2.md)
 8. [Validate local WebUI connects to Remote Object Server](/files/configurepi3.md)
