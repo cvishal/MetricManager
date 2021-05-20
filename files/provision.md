@@ -6,7 +6,7 @@
 ## 1. Provision VM with 4C-16GB on IBM Cloud & RHEL 7
 ----
 In this scenario </br>
-`IP : 150.238.97.149` </br>
+`IP : 150.238.97.xxxx` </br>
 `Hostname: pi-demo.Hybrid-Squad.cloud` </br>
 `Hostname -f : pi-demo` </br>
 
