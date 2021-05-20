@@ -36,6 +36,7 @@ _Please note: You can make Image Template at this moment, so its easy to share w
 
 -----
 
+#### Note for IBM Employees
 _For Internal IBM PoC and Demo purpose, we have pre-created template, which can be leveraged. Please get in touch with cvishal@in.ibm.com or vksuktha@in.ibm.com for more details_
 
 -----
