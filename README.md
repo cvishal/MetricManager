@@ -1,5 +1,4 @@
-## Predictive Insights (PI) on VM (Also referred as Metric Manager (MM))
-
+## Predictive Insights (PI) on VM (Also referred as Metric Manager)
 -----
 
 ### Introduction:
