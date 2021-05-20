@@ -14,7 +14,7 @@ These steps are grouped in following catagories:
 2. [Install all pre-reqs softwares](/files/prereq.md)
 3. [Install Standalone instance of PI pointing to local object server and local LDAP](/files/installpi.md)
 
-*_Please note: You can make Image Template at this moment, so its easy to share with rest of your organization_*
+_Please note: You can make Image Template at this moment, so its easy to share with rest of your organization_
 ----
 
 ### Get Watson AIOps Details (OCP based EM)
@@ -33,7 +33,7 @@ These steps are grouped in following catagories:
 
 -----
 
-_For Internal IBM, we have already created template, which can be leveraged for PI Setup on IBM Cloud. Please get in touch with cvishal@in.ibm.com or vksuktha@in.ibm.com for more details_
+_For Internal IBM PoC and Demo purpose, we have pre-created template, which can be leveraged. Please get in touch with cvishal@in.ibm.com or vksuktha@in.ibm.com for more details_
 
 -----
 
