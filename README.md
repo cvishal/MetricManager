@@ -1,7 +1,7 @@
-# Predictive Insights (PI) on VM (Part of Cloud Pak for Watson AIOps also referred as  as Metric Manager)
+## Predictive Insights (PI) on VM (Part of Cloud Pak for Watson AIOps also referred as  as Metric Manager)
 
 ---- 
-## Setup standalone PI Instance
+### Setup standalone PI Instance
 
 These steps are grouped in following catagories:
 - Install PI On Standalone VM on IBM Cloud VSI
